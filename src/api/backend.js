@@ -16,6 +16,8 @@ export async function apiFetch(path, { method = 'GET', body, token } = {}) {
     body: body ? JSON.stringify(body) : undefined,           //    object ต้องแปลงเป็นข้อความก่อนส่ง
   });
 
+  
+
   if (res.status === 204) return null;                       // 3) ลบสำเร็จ ไม่มี body ให้อ่าน
 
   const data = await res.json()                              //    อ่านคำตอบเป็น JSON
