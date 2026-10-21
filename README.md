@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 MovieHub Starter
 
 โปรเจกต์เริ่มต้นสำหรับสัปดาห์ Fetch / JSON / API ของวิชา 520 341 Client Side Web Programming
@@ -61,3 +62,6 @@ vercel.json                 ตั้งค่าให้ refresh หน้า�
 ข้อมูลหนังและโปสเตอร์จาก [The Movie Database (TMDB)](https://www.themoviedb.org)
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 โลโก้ TMDB สำหรับหน้า About ดาวน์โหลดได้จาก https://www.themoviedb.org/about/logos-attribution
+=======
+# moviehubb-670710198
+>>>>>>> afb6653cf4e2808415cf43c086c44a510e85fe16
