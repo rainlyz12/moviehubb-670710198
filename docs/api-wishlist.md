@@ -12,7 +12,7 @@
 | 4 | POST | /api/movies/{id}/reviews | ส่งรีวิวจาก ReviewForm | |
 | 5 | | | | |
 
-## ตัวอย่าง JSON ต่อ endpointt
+## ตัวอย่าง JSON ต่อ endpointtt
 
 ### GET /api/movies
 
